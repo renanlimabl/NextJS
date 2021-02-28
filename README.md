@@ -1,4 +1,4 @@
-# Boilerplate
+# Client
 - [x] ReactJS
 - [x] TypeScript
 - [x] NextJS
@@ -10,8 +10,3 @@
 - [x] Pwa Support (next-pwa)
 - [x] styled-components
 - [x] babel
-
-### To use this:
-```
-yarn create next-app -e
-```
